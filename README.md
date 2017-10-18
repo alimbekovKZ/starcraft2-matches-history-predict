@@ -1,4 +1,5 @@
-# starcraft2-matches-history-predict
+# StarCraft II matches history
+## Prediction of the results of matches on StarCraft 2 on historical data
 
 Context
 
