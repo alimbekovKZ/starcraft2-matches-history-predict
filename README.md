@@ -3,6 +3,7 @@
 Context
 
 This data set is a collection of all StarCraft pro-player 2 matches. The data is taken from the site - http://aligulac.com/
+
 Content
 
 Dataset data - 18 October 2017. You can parse actual data. Just use my script (Github)
